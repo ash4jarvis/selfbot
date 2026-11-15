@@ -5,7 +5,7 @@ A modern Discord chat exporter built for **selfbot environments**, supporting se
 ## 🚀 Installation
 
 ```bash
-pip install git+https://github.com/Spythen/chat-exporter-self.git
+pip install git+https://github.com/ash4jarvis/selfbot.git
 ```
 
 ## 🔌 Compatibility
